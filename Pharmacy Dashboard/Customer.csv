@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Address,District,PhoneNumber,Gender,DateOfBirth
+1,John Doe,123 Main St, City,123-456-7890,Male,1990-05-15
+2,Jane Smith,456 Elm St, Town,987-654-3210,Female,1985-08-21
+3,David Johnson,789 Oak St, Village,555-123-4567,Male,1978-12-10
+4,Emily Brown,321 Maple St, County,222-333-4444,Female,1992-03-25
+5,Michael Wilson,555 Pine St, Town,777-888-9999,Male,1987-06-18
+6,Sarah Davis,444 Oak St, City,555-666-7777,Female,1989-09-30
+7,Robert Johnson,777 Elm St, Village,111-222-3333,Male,1970-11-05
+8,Jessica Miller,888 Cedar St, Town,444-555-6666,Female,1995-02-14
+9,William Martinez,999 Pine St, City,333-222-1111,Male,1983-04-27
+10,Amanda Garcia,222 Oak St, County,666-777-8888,Female,1975-08-09

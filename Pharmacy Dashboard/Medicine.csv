@@ -1,0 +1,11 @@
+MedID,MedName,MedTypeID,PtID,Cooled,Company
+1,Paracetamol,1,1,0,ABC Pharmaceuticals
+2,Ibuprofen,1,2,0,XYZ Pharmaceuticals
+3,Amoxicillin,2,3,1,DEF Pharmaceuticals
+4,Aspirin,1,1,0,GHI Pharmaceuticals
+5,Loratadine,2,2,0,JKL Pharmaceuticals
+6,Ciprofloxacin,1,3,1,MNO Pharmaceuticals
+7,Omeprazole,2,1,0,PQR Pharmaceuticals
+8,Diazepam,1,2,0,STU Pharmaceuticals
+9,Atorvastatin,2,3,1,VWX Pharmaceuticals
+10,Metformin,1,1,0,YZA Pharmaceuticals

@@ -1,0 +1,11 @@
+SupID,SupName,PhoneNumber,Address,District,ContactName
+1,ABC Supplier,999-888-7777,10 Oak St, City,John Supplier
+2,XYZ Supplier,333-222-1111,20 Pine St, Town,Jane Supplier
+3,DEF Supplier,777-666-5555,30 Maple St, Village,David Supplier
+4,GHI Supplier,111-000-9999,40 Elm St, County,Mary Supplier
+5,JKL Supplier,444-555-6666,50 Cedar St, City,James Supplier
+6,MNO Supplier,888-777-6666,60 Oak St, Town,Emily Supplier
+7,PQR Supplier,222-333-4444,70 Pine St, Village,Daniel Supplier
+8,STU Supplier,666-777-8888,80 Maple St, County,Anna Supplier
+9,VWX Supplier,999-888-7777,90 Cedar St, City,Thomas Supplier
+10,YZA Supplier,333-444-5555,100 Elm St, Town,Olivia Supplier
